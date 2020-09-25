@@ -33,7 +33,7 @@ Robo-advisors uses several metrics to evaluate success.
 3. The cost and charge of services by each Robo-advisors. Each company has to make some profit. Services could range from basic services to added on feature to enhance the experience. These add-ons do increase the price of the monthly fees. 
 Against other companies such as Robinhood and Stash, Acorn sets itself apart from other companies buy allowing a person to invest using spare change from their bank account. The fundamentals of the company is no different from its competitors, but gives a person who has wanted to invest in the stock market that cannot afford to a chance. Acorns chooses the stock for you, which for some, it works. Allowing yourself to build wealth over time. nist other companies such as Robinhood and Stash, Acorn sets itself apart from other companies buy allowing a person to invest using spare change from their bank account. The fundamentals of the company is no different from its competitors, but gives a person who has wanted to invest in the stock market that cannot afford to a chance. Acorns chooses the stock for you, which for some, it works. Allowing yourself to build wealth over time.
  
-![Acorns/Stash/Robinhood](https://www.google.com/url?sa=i&url=https%3A%2F%2Finvestorjunkie.com%2Fcompare%2Fstash-vs-robinhood-vs-acorns%2F&psig=AOvVaw3ILHyDxWTyq86g-41P3LCi&ust=1601146290756000&source=images&cd=vfe&ved=2ahUKEwjW-bXw_ITsAhUKzp4KHQdwCfEQjRx6BAgAEAc)
+![Acorns/Stash/Robinhood](https://images.app.goo.gl/3Rb6kdepv9aZqYLDA)
 ###Investorjunkie.com (September 17, 2020)
 
 ## Recommendations
