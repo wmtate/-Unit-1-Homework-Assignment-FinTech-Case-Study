@@ -34,6 +34,7 @@ Robo-advisors uses several metrics to evaluate success.
 Against other companies such as Robinhood and Stash, Acorn sets itself apart from other companies buy allowing a person to invest using spare change from their bank account. The fundamentals of the company is no different from its competitors, but gives a person who has wanted to invest in the stock market that cannot afford to a chance. Acorns chooses the stock for you, which for some, it works. Allowing yourself to build wealth over time. nist other companies such as Robinhood and Stash, Acorn sets itself apart from other companies buy allowing a person to invest using spare change from their bank account. The fundamentals of the company is no different from its competitors, but gives a person who has wanted to invest in the stock market that cannot afford to a chance. Acorns chooses the stock for you, which for some, it works. Allowing yourself to build wealth over time.
  
 ![Acorns/Stash/Robinhood](https://user-images.githubusercontent.com/69773959/94307703-24d6fd00-ff2a-11ea-9d01-a8128503e8cd.png)
+
 ###Investorjunkie.com (September 17, 2020)
 
 ## Recommendations
