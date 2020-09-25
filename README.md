@@ -35,8 +35,6 @@ Against other companies such as Robinhood and Stash, Acorn sets itself apart fro
  
 ![Acorns/Stash/Robinhood](https://user-images.githubusercontent.com/69773959/94307703-24d6fd00-ff2a-11ea-9d01-a8128503e8cd.png)
 
-###Investorjunkie.com (September 17, 2020)
-
 ## Recommendations
 
 As a recommendation to Acorns, there are some products and services I would suggest they offer to current and future users that I believe is working. 
