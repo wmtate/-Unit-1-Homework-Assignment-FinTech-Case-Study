@@ -53,13 +53,21 @@ Acorns target audience are those who don’t want to be a part of the investment
 
 ## References
 [Forbes.com](https://www.forbes.com/companies/acorns/?list=fintech/#76a95e4b3529)
+
 [Acorns: We're Not Just Gathering Assets, We're Building a Brand](https://wmtoday.com/2018/07/01/acorns-not-just-gathering-assets-building-brand/#:~:text=From%20the%20beginning%2C%20Acorns%20has,68%25%20of%20those%20being%20Millennials.)
+
 [Knowledge @ Wharton High School](https://kwhs.wharton.upenn.edu/2019/01/acorns-jennifer-barrett-5-facts-fintech/)
+
 [Satsh vs Robinhood vs Acorns](https://investorjunkie.com/compare/stash-vs-robinhood-vs-acorns/)
+
 [Fintech profile: Acorns-disrupting investment](https://www.fintechmagazine.com/fintech/fintech-profile-acorns-disrupting-investment)
+
 [How Acorns Makes Money](https://www.investopedia.com/articles/company-insights/090516/how-acorns-works-and-makes-money.asp)
+
 [FinTech industry](https://askwonder.com/research/industry-trends-fintech-industry-bfso24zpn)
+
 [HOw teh Pandemic has upend the financial lives of average Americans: CNBC + Acorns Survey](https://www.cnbc.com/2020/09/01/heres-how-pandemic-has-impacted-the-financial-lives-of-average-americans.html)
+
 [Acorns: Helping Five Million Millennials Become Investors](https://growthhackers.com/growth-studies/Helping-Five-Million-Millennials-Become-Investors-acorns)
 
 
