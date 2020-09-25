@@ -41,6 +41,7 @@ As a recommendation to Acorns, there are some products and services I would sugg
 1. Spare change from your bank account is helping invest in stocks that over time turns in profit and helps increase your worth and value. 
 2. A person who does not know how to invest or know of any stocks to invest in, this is a sure way to get your feet wet and learn how to invest. By allowing Acorns to invest for you, the small amount of money you are investing could make a profit or become a lost to the market. 
 3. An alternative way of banking. By looking at ways to increase your savings, going with a Robo-advisor will make the banking experience a little different, but makes it a safe way to save. 
+
 No company is a sure thing. There are some negatives about this company and services. 
 1. There are service fees when using the application. Those fees can range from $1 to upwards over $9, depending on the tier service you choose. 
 2. Your investment folder will not make you wealthy overnight or even a year. Remember, y0u are investing small change and more than likely, investing in stocks that do not produce high profit margins in the stock market.
